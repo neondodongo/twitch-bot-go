@@ -12,7 +12,7 @@ func main() {
 
 	okashiBot, err := okashi.New(okashi.Config{
 		Twitch: twitch.Config{
-			OAuthToken: "oy76rd4kw81t5ot9mfasvoayl6xcc9",
+			OAuthToken: "auth-token-here-pls",
 			Channel:    "neondodongo",
 			Username:   "okashiibot",
 			URL:        "irc.chat.twitch.tv",
