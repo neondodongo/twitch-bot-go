@@ -1,0 +1,13 @@
+{
+  "twitch": {
+    "oauth_token": "",
+    "channel": "neondodongo",
+    "username": "okashiibot",
+    "port": "",
+    "url": ""
+  },
+  "twitch_vips": [
+    "neondodongo",
+    "okashibox"
+  ]
+}
